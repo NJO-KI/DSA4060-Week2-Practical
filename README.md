@@ -1,13 +1,14 @@
-# DSA 4060: Week 2 Practical Task - Recommendation Data & Popularity Baselines
+# Week 2 Practical Task - Recommendation Data & Popularity Baselines
 
 ## Project Overview
-This repository contains the dataset exploration, cleaning, sparsity evaluation, and popularity baseline recommender implementation for **DSA 4060 Week 2 Practical Task**.
+This repository contains the dataset exploration, cleaning, sparsity evaluation, and popularity baseline recommender implementation for Week 2 Practical Task.
 
 ## Repository Files
 - `DSA4060_Week2_Practical.ipynb`: Jupyter Notebook containing code, outputs, and Markdown analysis.
 - `DSA_4060_Week2_Movie_Ratings.csv`: Provided movie ratings dataset.
 - `top_10_recommended_movies.csv`: Exported CSV listing the top 10 recommended movies with \(\ge 10\) ratings.
 - `README.md`: Overview and summary of findings.
+
 
 ## Key Metrics & Results
 - **Total Valid Ratings:** 500
